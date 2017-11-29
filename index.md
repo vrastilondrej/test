@@ -1,6 +1,6 @@
 [zpět](https://vrastilondrej.github.io/)
 
-```javasript
+```javascript
 var t = 60;
 
 while (t >= 0) {
